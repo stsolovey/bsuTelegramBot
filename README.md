@@ -11,7 +11,7 @@ Welcome to [🤖 bsuTimetableClassesBot](https://t.me/bsuTimetableClassesBot) - 
 
 - 🛫 Start working with command `/start`.
 - 🗿 You will come here if you call `/about`.
-- 🗿 Ask for help if you get lost
+- 🆘 Ask for help if you get lost
 
 ## 📝 Sample Output
 
@@ -60,6 +60,9 @@ help - Get help
 ```
 4. Well done!
 
+## 💸 Сost-price
+
+The first million operations per month for Functions and Databases in Yandex Cloud are free. Then you will have to pay a few rubles, so be careful.
 
 ## ✍️ Author
 
@@ -68,3 +71,8 @@ This bot was crafted with ❤️ by a proud student.
 📜 License
 
 BSU © 2023 [👨‍⚕️ Duck Ever](https://t.me/duckever)
+
+
+<p align="center">
+  <img src="images/pxl_pgss.jpg" alt="Belgorod State Univercity"/>
+</p>
