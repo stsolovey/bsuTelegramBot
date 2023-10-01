@@ -1,4 +1,4 @@
-# 🤖 @bsuTimetableClassesBot - A Telegram Schedule Bot
+# 🤖 bsuTimetableClassesBot - A Telegram Schedule Bot
 
 Welcome to [🤖 bsuTimetableClassesBot](https://t.me/bsuTimetableClassesBot) - a handy Telegram bot designed for the students of Belgorod State University. Get your class schedule directly on Telegram!
 
