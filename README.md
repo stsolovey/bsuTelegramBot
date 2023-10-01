@@ -11,7 +11,7 @@ Welcome to [🤖 bsuTimetableClassesBot](https://t.me/bsuTimetableClassesBot) - 
 
 - 🛫 Start working with command `/start`.
 - 🗿 You will come here if you call `/about`.
-- 🆘 Ask for help if you get lost
+- 🆘 Ask for help if you get lost `/help`
 
 ## 📝 Sample Output
 
