@@ -64,7 +64,7 @@ help - Get help
 
 The first million operations per month for Functions and Databases in Yandex Cloud are free. Then you will have to pay a few rubles, so be careful.
 
-## Alternatives
+## 🍰 Alternatives
 
 [🤖 bsuedubot](https://t.me/bsuedubot) - I didn't know about its existence until I completed my project 😄 Very pleasant, fast and convenient.
 
