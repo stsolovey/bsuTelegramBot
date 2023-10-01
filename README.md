@@ -22,7 +22,7 @@ Welcome to [🤖 bsuTimetableClassesBot](https://t.me/bsuTimetableClassesBot) - 
 
 
 1. env variables (bot token etc.)
-2. Triggers for notifications function.
+2. Triggers for the notifications function.
 
 | Description  | cron triggers  |
 |---|---|
@@ -66,7 +66,7 @@ The first million operations per month for Functions and Databases in Yandex Clo
 
 ## Alternatives
 
-[🤖 bsuedubot](https://t.me/bsuedubot) - I didn't know about its existence until I completed my project 😄
+[🤖 bsuedubot](https://t.me/bsuedubot) - I didn't know about its existence until I completed my project 😄 Very pleasant, fast and convenient.
 
 ## ✍️ Author
 
