@@ -66,7 +66,7 @@ The first million operations per month for Functions and Databases in Yandex Clo
 
 ## 🍰 Alternatives
 
-[🤖 bsuedubot](https://t.me/bsuedubot) - I didn't know about its existence until I completed my project 😄 Very pleasant, fast and convenient.
+[🤖 bsuedubot](https://t.me/bsuedubot) - Very pleasant, fast and convenient. I didn't know about its existence until I completed my project 😄 
 
 ## ✍️ Author
 
